@@ -1,0 +1,40 @@
+.container{
+       height: 675px; 
+       width: 350px;
+       float: center;
+       background-color: rgb(236, 218, 205);
+       margin: 50px;
+       border-style: solid;
+}
+
+.body{
+    font-style: italic;
+}
+.whalehttps{
+    float: left;
+}
+li{
+    font-weight: normal;
+}
+span{ 
+    font-weight: bold;
+}
+.box{
+    position: relative;
+    height: 200px;
+    width: 300px;
+    margin: 50px;
+    border-style: solid;
+}
+
+div{
+    left: -25px;
+}
+.boxinformation{
+    position: relative;
+    height: 305px;
+    width: 300px;
+    margin: 50px;
+    border-style: solid;
+    background-color: seashell;
+}
